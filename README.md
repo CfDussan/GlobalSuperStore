@@ -13,3 +13,5 @@ Puedes encontrar todo el proyecto en https://docs.google.com/spreadsheets/d/1h3C
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+![alt text](image-4.png)
