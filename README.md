@@ -7,3 +7,9 @@ El desafío es desarrollar las etapas de un proyecto de DA desde los procesos de
 Puedes encontrar todo el proyecto en https://docs.google.com/spreadsheets/d/1h3C7gDimmtwoe5n7fcvPcFVFXI1x_U_EOGXuyyPy4gM/edit?usp=sharing
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
