@@ -5,3 +5,5 @@ Me han contratado como DA para que lleve adelante este estudio, para lo que me h
 El desafío es desarrollar las etapas de un proyecto de DA desde los procesos de ETL necesarios  para el análisis exploratorio hasta la presentación de resultados mediante informes y Dashboard interactivo en Spreadsheets.
 
 Puedes encontrar todo el proyecto en https://docs.google.com/spreadsheets/d/1h3C7gDimmtwoe5n7fcvPcFVFXI1x_U_EOGXuyyPy4gM/edit?usp=sharing
+
+![alt text](image.png)
